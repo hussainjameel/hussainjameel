@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/hussainjameel/hussainjameel.github.io/blob/96b39870c7b396da42d6b9c90aca0ead6d5ac1b5/images/aerodrive-visual.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/hussainjameel/hussainjameel.github.io/blob/26ca101ec47ec29057125b8490cade6cdefba2a5/images/vscode-visvual.png">
+  <source media="(prefers-color-scheme: dark)" srcset="">
+  <source media="(prefers-color-scheme: light)" srcset="">
   <img alt="A banner image with my name, [Your Name], that changes based on the theme." src="URL-OF-YOUR-DEFAULT-IMAGE">
 </picture>
 
