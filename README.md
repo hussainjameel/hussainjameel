@@ -1,21 +1,22 @@
-<div>
-<div align="left">
-  <h5>Hi 👋, I'm</h5>
-  <h1>Hussain Jameel</h1>
-  Software Engineer / Project Lead passionate about turning complex ideas into real-world impact.
+<img 
+  align="right" 
+  src="https://raw.githubusercontent.com/hussainjameel/hussainjameel/eb646e5125a9357b1d147fd2bc2a04bd37116d1d/Dev_Illustration.png" 
+  width="350" 
+  alt="illustration" 
+/>
 
-Let’s Connect
-💼 LinkedIn
-✍️ dev.to
-🛠️ Portfolio
-📬 lfariabr@gmail.com
-</div>
+<h5>Hi 👋, I'm</h5>
+<h1>Hussain Jameel</h1>
 
-<div align="right">
-  <img src="https://github.com/hussainjameel/hussainjameel/blob/eb646e5125a9357b1d147fd2bc2a04bd37116d1d/Dev_Illustration.png" width="350" alt="illustration" />
-</div>
+Software Engineer / Project Lead passionate about turning complex ideas into real-world impact.
 
-</div>
+<br>
+
+### Let’s Connect
+💼 LinkedIn  
+✍️ dev.to  
+🛠️ Portfolio  
+📬 jameel@gmail.com
 
 <!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="">
