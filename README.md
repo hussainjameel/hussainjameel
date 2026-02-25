@@ -5,8 +5,13 @@
   alt="illustration" 
 />
 
-<h5>Hi 👋, I'm</h5>
-<h2 style="border-bottom: none;">Hussain Jameel</h2>
+<p style="margin: 0; font-size: 16px;">
+  Hi 👋, I'm
+</p>
+
+<p style="margin: 0; font-size: 48px; font-weight: 700;">
+  Hussain Jameel
+</p>
 
 Software Engineer /  I love building and rebuilding programs using color, fonts, and illustrations. I'm a great admirer of attention to detail and beautifully crafted designs that not only look exceptional but also are easy to use. I specialize in creating user interfaces and user experiences utilizing the latest web technologies.
 
