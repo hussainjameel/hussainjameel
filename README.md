@@ -1,14 +1,12 @@
-<table>
-  <tr>
-    <td valign="center">
-      <h5>Hi 👋, I'm</h4>
-      <h1>Hussain Jameel</h1>
-    </td>
-    <td align="right">
-      <img src="https://github.com/hussainjameel/hussainjameel/blob/eb646e5125a9357b1d147fd2bc2a04bd37116d1d/Dev_Illustration.png" width="350" alt="illustration"/>
-    </td>
-  </tr>
-</table>
+
+<p align="left">
+  <h5>Hi 👋, I'm</h5>
+  <h1>Hussain Jameel</h1>
+</p>
+
+<p align="right">
+  <img src="https://github.com/hussainjameel/hussainjameel/blob/eb646e5125a9357b1d147fd2bc2a04bd37116d1d/Dev_Illustration.png" width="350" alt="illustration" />
+</p>
 
 <!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="">
