@@ -2,6 +2,13 @@
 <div align="left">
   <h5>Hi 👋, I'm</h5>
   <h1>Hussain Jameel</h1>
+  Software Engineer / Project Lead passionate about turning complex ideas into real-world impact.
+
+Let’s Connect
+💼 LinkedIn
+✍️ dev.to
+🛠️ Portfolio
+📬 lfariabr@gmail.com
 </div>
 
 <div align="right">
