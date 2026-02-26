@@ -1,6 +1,7 @@
 <div align="left">
   <img 
     align="right" 
+    style="margin-top: 20px;"
     src="https://raw.githubusercontent.com/hussainjameel/hussainjameel/eb646e5125a9357b1d147fd2bc2a04bd37116d1d/Dev_Illustration.png" 
     width="350" 
     alt="illustration" 
@@ -8,7 +9,7 @@
 
   <p style="margin: 0; font-size: 16px;">Hi 👋, I'm</p>
 
-  <h1 style="margin: 0 0 20px 0; border-bottom: none !important">Hussain Jameel</h1>
+  <h1>Hussain Jameel</h1>
 
   <p style="margin: 0 0 20px 0; font-size: 16px; line-height: 1.6; max-width: 550px;">
     Software Engineer / I love building and rebuilding programs using color, fonts, 
