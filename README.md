@@ -8,7 +8,7 @@
 
   <p style="margin: 0; font-size: 16px;">Hi 👋, I'm</p>
 
-  <h1 style="margin: 0 0 20px 0; font-size: 48px; font-weight: 700;">Hussain Jameel</h1>
+  <h1 style="margin: 0 0 20px 0; border-bottom: none !important">Hussain Jameel</h1>
 
   <p style="margin: 0 0 20px 0; font-size: 16px; line-height: 1.6; max-width: 550px;">
     Software Engineer / I love building and rebuilding programs using color, fonts, 
