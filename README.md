@@ -21,4 +21,4 @@ Software Engineer /  I love building and rebuilding programs using color, fonts,
 💼 LinkedIn  
 ✍️ dev.to  
 🛠️ Portfolio  
-📬 jameel@gmail.com
+📬 contact@hussainjameel.dev
