@@ -19,9 +19,8 @@ I'm Hussain Jameel, a Full Stack Software Engineer specializing in modern web de
 ### Let’s Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/hussainjameel/)
-- ✍️ [dev.to](https://dev.to/sainsec)
 - 🛠️ [Portfolio](https://hussainjameel.dev/)
-- 📬 [contact@hussainjameel.dev](mailto:contact@hussainjameel.dev)
+- 📬 [contact](mailto:contact@hussainjameel.dev)
 
 ---
 
