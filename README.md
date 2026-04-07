@@ -6,13 +6,10 @@
 />
 
 <p style="margin: 0; font-size: 16px;">
-  Hi 👋, I'm
-</p>
-<p style="margin: 0; font-size: 48px; font-weight: 700;">
-  Hussain Jameel
+  Hi 👋, I'm Hussain Jameel
 </p>
 
-I'm Hussain Jameel, a Full Stack Software Engineer specializing in modern web development, with a growing focus on AI agentic frameworks and workflow automation.
+A Full Stack Software Engineer specializing in modern web development, with a growing focus on AI agentic frameworks and workflow automation.
 
 <br>
 
